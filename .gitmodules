@@ -5,3 +5,7 @@
 	path = envytools
 	url = https://github.com/RSpliet/envytools.git
 	branch = ctxswitch_instrument
+[submodule "linux"]
+	path = linux
+	url = https://github.com/RSpliet/kernel-nouveau-nv50-pm.git
+	branch = ctxswitch_litmus
