@@ -1,3 +1,7 @@
 [submodule "schedcat"]
 	path = schedcat
 	url = https://github.com/RSpliet/schedcat.git
+[submodule "envytools"]
+	path = envytools
+	url = https://github.com/RSpliet/envytools.git
+	branch = ctxswitch_instrument
