@@ -1,0 +1,3 @@
+[submodule "schedcat"]
+	path = schedcat
+	url = https://github.com/RSpliet/schedcat.git
